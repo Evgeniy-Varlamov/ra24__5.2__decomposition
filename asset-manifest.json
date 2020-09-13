@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra24__5.2__decomposition/static/css/main.70852121.chunk.css",
+    "main.js": "/ra24__5.2__decomposition/static/js/main.1c1688e3.chunk.js",
+    "main.js.map": "/ra24__5.2__decomposition/static/js/main.1c1688e3.chunk.js.map",
+    "runtime-main.js": "/ra24__5.2__decomposition/static/js/runtime-main.8dbf1660.js",
+    "runtime-main.js.map": "/ra24__5.2__decomposition/static/js/runtime-main.8dbf1660.js.map",
+    "static/js/2.a0eb0d1d.chunk.js": "/ra24__5.2__decomposition/static/js/2.a0eb0d1d.chunk.js",
+    "static/js/2.a0eb0d1d.chunk.js.map": "/ra24__5.2__decomposition/static/js/2.a0eb0d1d.chunk.js.map",
+    "index.html": "/ra24__5.2__decomposition/index.html",
+    "precache-manifest.7af02a2d6330f44bee2df097d0be43da.js": "/ra24__5.2__decomposition/precache-manifest.7af02a2d6330f44bee2df097d0be43da.js",
+    "service-worker.js": "/ra24__5.2__decomposition/service-worker.js",
+    "static/css/main.70852121.chunk.css.map": "/ra24__5.2__decomposition/static/css/main.70852121.chunk.css.map",
+    "static/js/2.a0eb0d1d.chunk.js.LICENSE.txt": "/ra24__5.2__decomposition/static/js/2.a0eb0d1d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dbf1660.js",
+    "static/js/2.a0eb0d1d.chunk.js",
+    "static/css/main.70852121.chunk.css",
+    "static/js/main.1c1688e3.chunk.js"
+  ]
+}
